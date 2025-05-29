@@ -9,4 +9,5 @@
 
 # 比对步骤
 - 用diff-match-patch生成文本diff（行转uniq char token、uniq char token字符级diff、diff char片段还原line）
+- diff结果加工，生成适合前端渲染的结构
 - 相同行collapse
